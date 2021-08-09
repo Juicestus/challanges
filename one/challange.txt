@@ -1,0 +1,10 @@
+Read numbers from a '.csv' file like this
+
+data.csv
+1, 2
+3, 6
+5, 10
+6, 12
+8, 16
+
+Calculate and print out the line of best fit for the data
